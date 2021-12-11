@@ -3,8 +3,8 @@ CVS Health Corporation business analytics issue
 Project timeline: Dec 2020 - Dec 2020
 
 Project team:
-- Zinaida Dvoskina (myself)
-- Kirill Ilin
+- Kirill Ilin (myself)
+- Zinaida Dvoskina
 
 Made a business analytics project on CVS Health Corporation after the Aetna acquisition and during COVID-19.
 Ran a sentiment analysis of the market experts' expectations from the Aetna acquisition and COVID-19. Ran regression models and predictions for the stock price to see how it performed relative to CVS's own and the market experts’ forecasts.
